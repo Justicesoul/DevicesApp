@@ -1,0 +1,13 @@
+.error {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+  margin-top: 40px;
+}
+
+.error__message {
+  padding: 15px;
+  font-size: 36px;
+  font-weight: 700;
+}
