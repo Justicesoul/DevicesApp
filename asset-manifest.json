@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/DevicesApp/static/css/main.078bc9e3.css",
+    "main.js": "/DevicesApp/static/js/main.d9b2f5c2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DevicesApp/static/js/787.28cb0dcd.chunk.js",
+    "static/media/loading.gif": "/DevicesApp/static/media/loading.22f413f2dca8d138a367.gif",
+    "static/media/search.svg": "/DevicesApp/static/media/search.87669e08da376fc9e2012fcddcc68cd3.svg",
+    "index.html": "/DevicesApp/index.html",
+    "static/media/clear.svg": "/DevicesApp/static/media/clear.ed08a0cd68eead7cc4e085cf2cba51b8.svg",
+    "main.078bc9e3.css.map": "/DevicesApp/static/css/main.078bc9e3.css.map",
+    "main.d9b2f5c2.js.map": "/DevicesApp/static/js/main.d9b2f5c2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DevicesApp/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.078bc9e3.css",
+    "static/js/main.d9b2f5c2.js"
+  ]
+}
