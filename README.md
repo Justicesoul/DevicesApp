@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Ubiquity devices
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### You can find project page here => https://justicesoul.github.io/DevicesApp/
+
+## Next steps
+
+1. Add pagination for easy browsing for a more customer-friendly experience.
+2. Establish routing for navigation by links.
+3. In the case of an application extension, it is worth to add state manager (Redux).
 
 ## Available Scripts
 
